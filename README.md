@@ -18,7 +18,7 @@ This repository has all projects from the Google Advanced Data Analytics Course.
 | Course 6: The Nuts and Bolts of Machine Learning                   | Not Started|
 | Course 7: Google Advanced Data Analytics Capstone                  | Not Started|
 
-### Last Update: Dec 2023
+#### Last Update: Dec 2023
 
 ---------------------------------
 
