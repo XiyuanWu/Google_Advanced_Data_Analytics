@@ -1,2 +1,2 @@
-# Course 1: Foundations: Data, Data, Everywhere
+# Course 1: Foundations of Data Science
 
