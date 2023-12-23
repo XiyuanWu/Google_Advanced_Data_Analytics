@@ -4,7 +4,7 @@
 
 ## Course Progress
 
-### Show temporary only. Once completed, will remove it.
+#### Show temporary only. Once completed, will remove it.
 
 This repository has all projects from the Google Advanced Data Analytics Course. Here is the project progress breakdown:
 
