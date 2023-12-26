@@ -19,5 +19,5 @@ Your insights will help Waze leadership optimize the company’s retention strat
 
 ## Projects
 
-Projects click [here](./Course2_Project/Course 2 Waze Project.ipynb)
+Projects click [here](./Course%202%20Waze%20Project.ipynb)
 
