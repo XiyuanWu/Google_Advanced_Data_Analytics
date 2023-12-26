@@ -32,9 +32,9 @@ This repository has all projects from the Google Advanced Data Analytics Course.
 ---
 ### Course 2: Get Started with Python         
 
+This course mainly talked about Python Analysis, and the end-of-course projects is WAZE projects. 
 
-
-For more detail, go to [Course2_Project](./Course2_Project/).
+For more details, go to [Course2_Project](./Course2_Project/).
 
 ---
 ### Course 3: Go Beyond the Numbers: Translate Data into Insights    
