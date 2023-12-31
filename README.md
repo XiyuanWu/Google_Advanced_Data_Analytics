@@ -10,7 +10,7 @@ This repository has all projects from the Google Advanced Data Analytics Course.
 
 | Course #                                                           | Progress   |
 |----------------------------------------------------------------    |------------|
-| Course 1: Foundations of Data Science                              | Not Started|
+| Course 1: Foundations of Data Science                              | **Completed**|
 | Course 2: Get Started with Python                                  | **Completed** |
 | Course 3: Go Beyond the Numbers: Translate Data into Insights      | Not Started|
 | Course 4: The Power of Statistics                                  | Not Started|
@@ -26,13 +26,14 @@ This repository has all projects from the Google Advanced Data Analytics Course.
 
 ### Course 1: Foundations of Data Science                  
 
+Course 1 Projects is about the proposal, and I chose WAZE Project.
 
-
+For more details, go to [Course1_Project](./Course1_Project/).
 
 ---
 ### Course 2: Get Started with Python         
 
-This course mainly talked about Python Analysis, and the end-of-course projects is WAZE projects. 
+This course mainly talked about Python Analysis.
 
 For more details, go to [Course2_Project](./Course2_Project/).
 
