@@ -1,6 +1,6 @@
 # Google Advanced Data Analytics 
 
-## Course 1-6: In Course portfolio project overview: Waze
+## Course 1-6: In Course Portfolio Project Overview: Waze
 
 *Notes: Courses 1-6 are working on the same project case.*
 
