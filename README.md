@@ -37,7 +37,7 @@ This repository has all projects from the Google Advanced Data Analytics Course.
 | Course 2: Get Started with Python                                  | **Completed** |
 | Course 3: Go Beyond the Numbers: Translate Data into Insights      | **Completed** |
 | Course 4: The Power of Statistics                                  | **Completed** |
-| Course 5: Regression Analysis: Simplify Complex Data Relationships | Not Started |
+| Course 5: Regression Analysis: Simplify Complex Data Relationships | In Progress |
 | Course 6: The Nuts and Bolts of Machine Learning                   | Not Started |
 | Course 7: Google Advanced Data Analytics Capstone                  | Not Started |
 
