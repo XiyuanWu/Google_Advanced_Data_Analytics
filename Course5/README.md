@@ -1,7 +1,8 @@
 # Course 5: Regression Analysis: Simplify Complex Data Relationships
 
-This course is about check model assumptions and logistic regression model.
+In this course, you will apply your knowledge to modeling variable relationships, with a focus on linear regression, analysis of variance (ANOVA), and logistic regression. From model assumptions to evaluation and interpretation, you will understand relationships in datasets based on PACE. 
 
+Dataset columns explanation
 | Column name            | Type  | Description                                            |
 |------------------------|-------|--------------------------------------------------------|
 | ID                     | int   | A sequential numbered index                            |
