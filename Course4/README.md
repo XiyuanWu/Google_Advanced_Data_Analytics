@@ -1,7 +1,8 @@
 # Course 4: The Power of Statistics
 
-This course is about conduct statistical analysis. 
+Learn descriptive and inferential statistics, basic probability and probability distributions, sampling, confidence intervals, and hypothesis testing.
 
+Dataset columns explanation
 
 | Column name            | Type  | Description                                            |
 |------------------------|-------|--------------------------------------------------------|
