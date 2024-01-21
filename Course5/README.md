@@ -1,5 +1,6 @@
 # Course 5: Regression Analysis: Simplify Complex Data Relationships
 
+This course is about check model assumptions and logistic regression model.
 
 | Column name            | Type  | Description                                            |
 |------------------------|-------|--------------------------------------------------------|
