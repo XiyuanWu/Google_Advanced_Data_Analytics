@@ -1,7 +1,8 @@
 # Course 2: Get Started with Python
 
-This course is about build a dataframe for the churn data and organize the data for the process of exploratory data analysis, and update the team on your progress and insights.
+In this course, you will get started with Python for data analytics by developing an understanding of Python syntax, logic, data types, objects, and object-oriented programming. 
 
+Dataset columns explanation
 | Column name            | Type  | Description                                            |
 |------------------------|-------|--------------------------------------------------------|
 | ID                     | int   | A sequential numbered index                            |
