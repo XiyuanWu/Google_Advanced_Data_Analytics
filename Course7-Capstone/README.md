@@ -5,7 +5,7 @@ This course presents the capstone project for the Advanced Data Analytics certif
 
 **Dataset columns explanation**
 
-*Note: Some column names could be better; I replaced some columns with better ones.*
+*Note: Some column names could be better; I replaced some columns with better ones. Typically, 0 means False/No, and 1 means True/Yes.*
 
 
 | Column name               | Type  | Description                                                  |
