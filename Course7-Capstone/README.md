@@ -5,6 +5,9 @@ This course presents the capstone project for the Advanced Data Analytics certif
 
 **Dataset columns explanation**
 
+*Note: Some column names could be better; I replaced some columns with better ones.*
+
+
 | Column name               | Type  | Description                                                  |
 |---------------------------|-------|--------------------------------------------------------------|
 | satisfaction_level        | int64 | The employee’s self-reported satisfaction level [0-1]        |
