@@ -1,6 +1,6 @@
 # Google Advanced Data Analytics 
 
-## Course 1-6: In Course Portfolio Project Overview: Waze
+## Course 1-6: In Course Project: Waze User Churn Analysis
 
 *Notes: Courses 1-6 are working on the same project case.*
 
@@ -26,22 +26,22 @@ All 6 In-Course Projects use the same [data set](./waze_dataset.csv).
 
 All In-Course Projects has answer keys uploads, too.
 
-## Course Progress
 
+## Course 7: End of Course Projects/Capstone: Salifort Motors Workforce Analysis
 
-This repository has all projects from the Google Advanced Data Analytics Course. Here is the project progress breakdown:
+## Background of the Salifort Motors Scenario
 
-| Course #                                                           | Progress   |
-|----------------------------------------------------------------    |------------|
-| Course 1: Foundations of Data Science                              | **Completed** |
-| Course 2: Get Started with Python                                  | **Completed** |
-| Course 3: Go Beyond the Numbers: Translate Data into Insights      | **Completed** |
-| Course 4: The Power of Statistics                                  | **Completed** |
-| Course 5: Regression Analysis: Simplify Complex Data Relationships | **Completed** |
-| Course 6: The Nuts and Bolts of Machine Learning                   | In Progress |
-| Course 7: Google Advanced Data Analytics Capstone                  | Not Started |
+### About the company
+Salifort Motors is a fictional French-based alternative energy vehicle manufacturer. Its global workforce of over 100,000 employees research, design, construct, validate, and distribute electric, solar, algae, and hydrogen-based vehicles. Salifort’s end-to-end vertical integration model has made it a global leader at the intersection of alternative energy and automobiles.        
 
+### Your business case
+As a data specialist working for Salifort Motors, you have received the results of a recent employee survey. The senior leadership team has tasked you with analyzing the data to come up with ideas for how to increase employee retention. To help with this, they would like you to design a model that predicts whether an employee will leave the company based on their  department, number of projects, average monthly hours, and any other data points you deem helpful. 
 
-## Course 7: End of Course Projects/Capstone
+### The value of your deliverable
+For this deliverable, you are asked to choose a method to approach this data challenge based on your prior course work. Select either a regression model or a tree-based machine learning model to predict whether an employee will leave the company. Both approaches are shown in the project exemplar, but only one is needed to complete your project.
 
-To be Updated.
+### Other Info
+
+This capstone projects will use [Salifort Motors](./HR_capstone_dataset.csv) dataset.
+
+Answer keys from Google was uploads, too. But I'm use different approach for this projects.
