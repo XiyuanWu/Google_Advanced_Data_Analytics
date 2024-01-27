@@ -26,6 +26,7 @@ All 6 In-Course Projects use the same [data set](./waze_dataset.csv).
 
 All In-Course Projects has answer keys uploads, too.
 
+---
 
 ## Course 7: End of Course Projects/Capstone: Salifort Motors Workforce Analysis
 
