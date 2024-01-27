@@ -101,7 +101,9 @@ The model provides valuable insights, however, data-driven models are simplifica
 | department                | str   | The department where the employee works                      |
 | salary_level              | str   | The salary category of the employee (low, medium, or high)   |
 
+## Answer Key
 
+[Exemplar](./Exemplar_%20Course%207%20Salifort%20Motors%20project%20lab.ipynb) provided by Google also uploads. 
 
 
 
