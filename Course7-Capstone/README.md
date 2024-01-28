@@ -29,7 +29,7 @@ We will use follow PACE framework for this projects:
 ### Construct
 
 - **Model Selection:** Decision Tree model: Justify the choice based on the model's simplicity, interpretability, and suitability for the data.
-- **Validation:** Split the data into training and testing sets to validate the model's performance. Use metrics like accuracy, precision, recall, and F1-score for evaluation.
+- **Validation:** Split the data into training and testing sets to validate the model's performance. Use K-Fold Cross-Validation and GridSearch for optimization.
 
 *Note: Among regression analysis, unsupervised/supervised Learning, supervised learningis the best fit for this scenario.*
 
