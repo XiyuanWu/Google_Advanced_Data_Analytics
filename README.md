@@ -43,6 +43,6 @@ For this deliverable, you are asked to choose a method to approach this data cha
 
 ### Other Info
 
-This capstone projects will use [Salifort Motors](./HR_capstone_dataset.csv) dataset.
+This capstone project will use [Salifort Motors](./HR_capstone_dataset.csv) dataset.
 
-Answer keys from Google was uploads, too. But I'm use different approach for this projects.
+Answer keys from Google were uploaded. But I'm using different structure for this project.
