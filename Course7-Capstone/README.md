@@ -47,7 +47,7 @@ We will use follow PACE framework for this projects:
 
 ## Decision tree
 
-Although I had used the `plot_tree()` function to draw the tree inside the notebook, but the graphviz version is also available. The document is uploaded [here](./decision_tree). If you are interested, go to [Graphviz Online](https://dreampuf.github.io/GraphvizOnline/), paster all the text(It should be already in there), and you should see a well-constructed decision tree. 
+Although I had used the `plot_tree()` function to draw the tree inside the notebook, but the graphviz version is also available. The document is uploaded [here](./decision_tree). If you are interested, go to [Graphviz Online](https://dreampuf.github.io/GraphvizOnline/), paster all the text, and you should see a well-constructed decision tree. 
 
 ### Example output: 
 ![](./graphviz.svg)
