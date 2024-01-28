@@ -24,6 +24,24 @@ In this section of the course, you will learn about tree-based modeling. Tree-ba
 
 As you conclude this part of the Advanced Data Analytics Certificate, you will put everything you’ve learned into one end-of-course project. You’ll be tasked with solving a business problem using the provided data. The concepts and skills you will learn in this part of the course will be critical to your success as a data professional. 
 
+## Answer Key Correction
+
+If you check the original answer key provided by Google, unfortunately, some code doesn't run; it consumed Google, too. 
+
+At the beginning of the contract model random forest and XGBoost stage, google made a mistake, so it couldn't run. Both mistakes happen when starting to build both models. 
+
+Here is the error shows up:
+![Alt text](image.png)
+
+The reason for this error is that the machine can't read string. So I replace string with a number, and the notebook will run expert. 
+
+
+Here is what I do:
+When building the model, I replaced from 
+`scoring = {'accuracy', 'precision', 'recall', 'f1}` to `scoring = {'accuracy': 'accuracy,' 'precision': 'precision', 'recall': 'recall', 'f1': 'f1'}`
+
+The updated notebook should run, except for reference; I will keep both files here. 
+
 
 **Dataset columns explanation**
 
