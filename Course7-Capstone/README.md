@@ -14,17 +14,7 @@ As a data specialist working for Salifort Motors, you have received the results 
 
 Although I had used the `plot_tree()` function to draw the tree inside the notebook, but the graphviz version is also available. The document is uploaded [here](./decision_tree). If you are interested, go to [Graphviz Online](https://dreampuf.github.io/GraphvizOnline/), paster all the text, and you should see a well-constructed decision tree. 
 
-### Example output: 
 ![](./graphviz.svg)
-Download image [here](./graphviz.svg).
-
-## Versions
-
-This project has been approached with two distinct analytical versions to enhance the robustness of our insights and recommendations.
-
-**Basic Analysis (Version 1):** Utilizing a single Decision Tree model, established a foundational understanding of the factors contributing to employee turnover. This model served as a starting point, offering initial clarity on key variables and their impact.
-
-**Advanced Analysis (Version 2):** Building upon the basic analysis, implemented Random Forest and XGBoost models to refine our predictive accuracy. These advanced models leveraged ensemble learning and gradient boosting respectively to capture more complex patterns in the data, providing a deeper and more nuanced understanding of turnover drivers.
 
 ## Insights
 
