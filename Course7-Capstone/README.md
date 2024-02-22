@@ -29,10 +29,10 @@ Although I had used the `plot_tree()` function to draw the tree inside the noteb
 
 #### K-Means
 
-- **Green Cluster Employees:** It is advisable to investigate the underlying factors contributing to this dissatisfaction. Enhancing workplace conditions, providing recognition, or offering professional development opportunities could improve their job satisfaction.
-- **Pink Cluster Employees:** This group may be at risk of burnout due to high workload despite their strong performance. Recommendations include reviewing their workload, considering more flexible hours, or offering additional support and incentives to maintain their performance without sacrificing well-being.
-- **Blue Cluster Employees:** This suggests a potential imbalance in work distribution or inefficiencies that need to be addressed. Strategies might involve optimizing work processes, reassessing task allocations, or providing time management training to ensure that high work hours translate into productivity and job satisfaction.
-- **Gold Cluster Employees:** This suggests they are efficient and effective but may need incentives to increase satisfaction, such as opportunities for advancement, recognition of their efficiency, or involvement in more challenging projects to align with their high performance.
+- **Green Cluster Employees:** Balanced average on both average monthly hours and last performance rating but have a lower satisfaction level. It is advisable to investigate the underlying factors contributing to this dissatisfaction. Enhancing workplace conditions, providing recognition, or offering professional development opportunities could improve their job satisfaction.
+- **Pink Cluster Employees:** Characterized by higher average monthly hours, these employees have a lower satisfaction level yet a high performance rating. This group may be at risk of burnout due to high workload despite their strong performance. Recommendations include reviewing their workload, considering more flexible hours, or offering additional support and incentives to maintain their performance without sacrificing well-being.
+- **Blue Cluster Employees:** Wide range of performance ratings and satisfaction levels, but consistently report high average monthly hours. This suggests a potential imbalance in work distribution or inefficiencies that need to be addressed. Strategies might involve optimizing work processes, reassessing task allocations, or providing time management training to ensure that high work hours translate into productivity and job satisfaction.
+- **Gold Cluster Employees:** Exhibit high performance ratings with mixed satisfaction levels and average to slightly lower monthly hours. This suggests they are efficient and effective but may need incentives to increase satisfaction, such as opportunities for advancement, recognition of their efficiency, or involvement in more challenging projects to align with their high performance.
 
 ### Conclusion
 
