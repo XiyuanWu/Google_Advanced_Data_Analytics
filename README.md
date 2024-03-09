@@ -46,3 +46,8 @@ For this deliverable, you are asked to choose a method to approach this data cha
 This capstone project will use [Salifort Motors](./HR_capstone_dataset.csv) dataset.
 
 Answer keys from Google were uploaded. But I'm using different structure for this project.
+
+### Model Deployment
+
+The model has successfully been deployed on both local and cloud environments! To access the files, feel free to check them out [here](https://github.com/XiyuanWu/Data_Science_Intern) (located in the week 4 & week 5 folders)!
+
