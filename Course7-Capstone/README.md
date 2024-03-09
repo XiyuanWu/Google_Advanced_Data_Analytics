@@ -44,6 +44,11 @@ The collective findings from the three models offer a robust starting point for 
 
 ---
 
+### Model Deployment
+
+The model has successfully been deployed on both local and cloud environments! To access the files, feel free to check them out [here](https://github.com/XiyuanWu/Data_Science_Intern) (located in the week 4 & week 5 folders)!
+
+
 ## Dataset columns explanation
 
 *Note: Some column names could be better; I replaced some columns with better ones. Typically, 0 means False/No, and 1 means True/Yes.*
