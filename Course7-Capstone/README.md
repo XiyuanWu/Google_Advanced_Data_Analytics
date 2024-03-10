@@ -44,7 +44,7 @@ The collective findings from the three models offer a robust starting point for 
 
 ---
 
-### Model Deployment
+## Model Deployment
 
 The model has successfully been deployed on both local and cloud environments! To access the files, feel free to check them out [here](https://github.com/XiyuanWu/Data_Science_Intern) (located in the week 4 & week 5 folders)!
 
